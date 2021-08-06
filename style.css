@@ -1,0 +1,20 @@
+
+img{
+   top: 0;
+   right: 0;
+   position: absolute;
+   float: right;
+   z-index: 1;
+}
+div{
+   margin: 10px;
+   padding: 10px;
+   text-align: right;
+   width: 50%;
+   background-color: white;
+   right: 10px;
+   top: 10px;
+   position: absolute;
+   float: right;
+   z-index: 2;
+}
